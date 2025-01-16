@@ -2,9 +2,6 @@
 
 Welcome to the **Python Basics** repository! This folder contains multiple Python scripts covering various fundamental concepts, algorithms, and tasks in Python programming. It serves as a resource for learning, practice, and reference.
 
-## Folder Structure
-
-
 ## How to Use
 
 1. **Clone or Download the Repository**:
